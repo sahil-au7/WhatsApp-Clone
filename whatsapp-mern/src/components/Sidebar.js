@@ -5,11 +5,12 @@ import ChatIcon from '@material-ui/icons/Chat';
 import DonutLargeIcon from '@material-ui/icons/DonutLarge';
 import { Avatar, Icon, IconButton } from '@material-ui/core';
 import { SearchOutlined } from '@material-ui/icons';
+import SidebarChat from "./SidebarChat"
 function Sidebar() {
     return (
         <div className="sidebar">
             <div className="sidebar__header">
-                <Avatar src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn5.vectorstock.com%2Fi%2F1000x1000%2F07%2F39%2Fman-avatar-profile-view-vector-22890739.jpg&imgrefurl=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fman-avatar-profile-view-vector-22890739&tbnid=rkx7znchm9w4fM&vet=12ahUKEwjE-cGj0PLtAhWBGCsKHeY5AY0QMygzegQIARBY..i&docid=8zofVYB6oF_NSM&w=1000&h=1080&q=avatar%20image%20cool&ved=2ahUKEwjE-cGj0PLtAhWBGCsKHeY5AY0QMygzegQIARBY" />
+                <Avatar src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Fcool-avatar-transparent-image-cool-boy-avatar-PNG-free-PNG-Images_169876&psig=AOvVaw3ASKaNWT0XWtPugDyB6hAU&ust=1609311936044000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCLyPH28u0CFQAAAAAdAAAAABAD" />
                 <div className="sidebar__headerRight">
                     <IconButton>
                         <DonutLargeIcon />
@@ -27,6 +28,12 @@ function Sidebar() {
                     <SearchOutlined />
                     <input placeholder="Search or Start new chat " type="text" />
                 </div>
+            </div>
+            <div className="sidebar_chats">
+                <SidebarChat />
+                <SidebarChat />
+                <SidebarChat />
+                <SidebarChat />
             </div>
         </div>
     )
