@@ -57,16 +57,284 @@ function Chat() {
                         {new Date().toUTCString()}
                     </span>
                 </p>
+
+                <p className="chat__message">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+
+                <p className="chat__message chat__reciever">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message and you are recieving it 
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+
+                <p className="chat__message">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+                <p className="chat__message">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+
+                <p className="chat__message chat__reciever">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message and you are recieving it 
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+
+                <p className="chat__message">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+                <p className="chat__message">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+
+                <p className="chat__message chat__reciever">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message and you are recieving it 
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+
+                <p className="chat__message">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+                <p className="chat__message">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+
+                <p className="chat__message chat__reciever">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message and you are recieving it 
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+
+                <p className="chat__message">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+                <p className="chat__message">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+
+                <p className="chat__message chat__reciever">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message and you are recieving it 
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+
+                <p className="chat__message">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+                <p className="chat__message">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+
+                <p className="chat__message chat__reciever">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message and you are recieving it 
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+
+                <p className="chat__message">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+                <p className="chat__message">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+
+                <p className="chat__message chat__reciever">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message and you are recieving it 
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+
+                <p className="chat__message">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+                <p className="chat__message">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+
+                <p className="chat__message chat__reciever">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message and you are recieving it 
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+
+                <p className="chat__message">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+                <p className="chat__message">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+
+                <p className="chat__message chat__reciever">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message and you are recieving it 
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
+
+                <p className="chat__message">
+                    <span className="chat__name">Sahil</span>
+
+                    This is a message
+
+                    <span className="chat__timestamp">
+                        {new Date().toUTCString()}
+                    </span>
+                </p>
             </div>
 
             <div className="chat__footer">
-                <InsertEmoticon />
+                <IconButton>
+                    <InsertEmoticon />
+                </IconButton>
+
                 <form>
                     <input placeholder="Type a message"
                     type="text" />
                     <button type="submit">Send a message</button>
                 </form>
-                <Mic />
+
+                <IconButton>
+                    <Mic />
+                </IconButton>
             </div>
         </div>
     )
