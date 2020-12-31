@@ -31,3 +31,40 @@
   justify-content: space-between;
   min-width: 10vw;
 }
+
+.chat__body {
+  flex: 1;
+  background-image: url("https://i.pinimg.com/originals/5f/6e/3a/5f6e3ab4fb32c2a9e60fd47043dc701a.png");
+  background-repeat: repeat;
+  background-position: center;
+  padding: 30px;
+  overflow: scroll;
+}
+
+.chat__message {
+  position: relative;
+  font-size: 16px;
+  padding: 10px;
+  width: fit-content;
+  border-radius: 10px;
+  background-color: #ffffff;
+  margin-bottom: 30px;
+}
+
+.chat__timestamp {
+  margin-left: 10px;
+  font-size: xx-small;
+}
+
+.chat__name {
+  position: absolute;
+  top: -15px;
+  color: white;
+  font-weight: 800;
+  font-size: x-small;
+}
+
+.chat__reciever {
+  margin-left: auto;
+  background-color: #dcf8c6;
+}
