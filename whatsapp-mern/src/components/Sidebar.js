@@ -3,7 +3,7 @@ import "./Sidebar.css"
 import MoreVertIcon from '@material-ui/icons/MoreVert';
 import ChatIcon from '@material-ui/icons/Chat';
 import DonutLargeIcon from '@material-ui/icons/DonutLarge';
-import { Avatar, Icon, IconButton } from '@material-ui/core';
+import { Avatar, IconButton } from '@material-ui/core';
 import { SearchOutlined } from '@material-ui/icons';
 import SidebarChat from "./SidebarChat"
 function Sidebar() {
