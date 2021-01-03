@@ -13,7 +13,7 @@ function Chat({ messages }) {
         await axios.post("/message/new", {
             message:input,
             name:"Demo",
-            timestamp:"Demo",
+            timestamp:"Just now",
             received:false,
         })
         setInput("")
